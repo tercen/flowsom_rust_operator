@@ -1,3 +1,5 @@
+> **Moved.** This operator was merged into [`tercen/flowsom_operator`](https://github.com/tercen/flowsom_operator) as version 2.0.0, with this repository's history. Development continues there; this repository is archived.
+
 # flowsom_rust_operator
 
 FlowSOM clustering for Tercen, in Rust. A **drop-in for the R `flowsom_operator`**: the same
